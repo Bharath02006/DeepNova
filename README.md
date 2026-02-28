@@ -16,3 +16,37 @@ DeepNova follows a structured development approach:
 ---
 
 ## 📁 Project Structure
+DeepNova/
+│
+├── frontend/ # Next.js / React frontend
+├── backend/ # Node.js / Express backend
+├── .gitignore
+└── README.md
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js
+- React
+- JavaScript / TypeScript
+- Modern CSS (Tailwind / CSS Modules)
+
+### Backend
+- Node.js
+- Express.js
+- REST API
+- Environment Variables (.env)
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+
